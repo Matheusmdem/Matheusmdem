@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Matheusmdem
 - 👀 I’m interested in become a Dev.
-- 🌱 I’m currently learning JS and Python...
+- 🌱 I’m currently learning JS, HTML and CSS...
 
 <div align="center">
   <a href="https://github.com/Matheusmdem">
