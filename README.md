@@ -11,7 +11,13 @@
 
   ##
 
-  <p align="left" style="background:yellow">
+  <a href="https://github.com/Matheusmdem">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Matheusmdem&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Matheusmdem&layout=compact&langs_count=7&theme=dark"/>
+
+   ##
+  
+    <p align="left" style="background:yellow">
   <a href="https://codepen.io/matheusmdem" target="_blank">
     <img align="center" src="https://img.shields.io/badge/-Matheus Melo-05122A?style=flat&logo=codepen" alt="codepen"/>
   </a>
@@ -23,8 +29,3 @@
   </a>
   </p>
 
-  ##
-
-  <a href="https://github.com/Matheusmdem">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Matheusmdem&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Matheusmdem&layout=compact&langs_count=7&theme=dark"/>
