@@ -1,6 +1,6 @@
   - 👋 Hi, I’m @Matheusmdem
   - 👀 I’m interested in become a Dev.
-  - 🌱 I’m currently learning JS, HTML, CSS ans NodeJS
+  - 🌱 I’m currently learning JS, ReacJS, HTML, CSS ans NodeJS
 
   ## Technologys
 
